@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "lion",
+        "image": "https://images.pexels.com/photos/2564889/pexels-photo-2564889.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 2,
+        "name": "tiger",
+        "image": "https://images.pexels.com/photos/2263936/pexels-photo-2263936.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 3,
+        "name": "bear",
+        "image": "https://images.pexels.com/photos/162340/bear-bavarian-bear-wild-brown-bear-162340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 4,
+        "name": "wolf",
+        "image": "https://images.pexels.com/photos/682375/pexels-photo-682375.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 5,
+        "name": "eagle",
+        "image": "https://images.pexels.com/photos/732096/pexels-photo-732096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 6,
+        "name": "owl",
+        "image": "https://images.pexels.com/photos/86596/owl-bird-eyes-eagle-owl-86596.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 7,
+        "name": "fox",
+        "image": "https://images.pexels.com/photos/134058/pexels-photo-134058.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 8,
+        "name": "deer",
+        "image": "https://images.pexels.com/photos/839303/pexels-photo-839303.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 9,
+        "name": "elephant",
+        "image": "https://images.pexels.com/photos/982021/pexels-photo-982021.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 10,
+        "name": "chimp",
+        "image": "https://images.pexels.com/photos/355669/pexels-photo-355669.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 11,
+        "name": "panda",
+        "image": "https://images.pexels.com/photos/1123765/pexels-photo-1123765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+        "id": 12,
+        "name": "falcon",
+        "image": "https://images.pexels.com/photos/2660620/pexels-photo-2660620.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    }
+]
