@@ -36,7 +36,7 @@ class App extends React.Component {
 
   handleClick(id) {
     const newState = { ...this.state };
-    
+
     if (this.state.usedIcons.includes(id)) {
       newState.score = 0;
       newState.usedIcons = [];
@@ -44,9 +44,9 @@ class App extends React.Component {
     } else {
       newState.score += 1;
       newState.usedIcons.push(id);
+      newState.message = "You guessed correctly!";
       if (newState.score > this.state.topScore) {
         newState.topScore = newState.score;
-        newState.message = "You guessed correctly!";
       }
     }
 
@@ -57,7 +57,7 @@ class App extends React.Component {
   render() {
     return (
       <Wrapper>
-        <Nav score={this.state.score} topScore={this.state.topScore} alert={this.state.alert}/>
+        <Nav score={this.state.score} topScore={this.state.topScore} message={this.state.message}/>
         <Jumbo />
         <Main>
           {this.state.gameIcons.map(icon => (
