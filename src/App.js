@@ -23,6 +23,7 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
+  // Modern version of the Fisher-Yates shuffle algorithm will shuffle gameIcons array in place
   randomShuffle(a) {
     let j, x, i;
     for (i = a.length - 1; i > 0; i--) {
